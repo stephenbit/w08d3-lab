@@ -41,4 +41,12 @@ export default {
 </script>
 
 <style lang="css" scoped>
+
+#bookingsDisplay {
+  display:flex;
+  flex-wrap: wrap;
+  background-color: black;
+  justify-content: flex-start;
+}
+
 </style>
