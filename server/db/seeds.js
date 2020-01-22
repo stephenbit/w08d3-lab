@@ -1,5 +1,5 @@
 use guests;
-db.dropdatabase();
+db.dropDatabase();
 
 db.bookings.insertMany([
   {
